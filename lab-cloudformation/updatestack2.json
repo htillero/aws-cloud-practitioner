@@ -1,12 +1,12 @@
 {
   "Resources": {
-    "platzilab": {
+    "platziHtillero": {
       "Type": "AWS::S3::Bucket",
       "Properties": {
-        "BucketName": "catsareawesome123"
+        "BucketName": "htillero123bucket"
       }
     },
-    "platzilabalexis  ": {
+    "platziLabUpdate  ": {
       "Type": "AWS::S3::Bucket"
     }
   }
