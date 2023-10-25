@@ -1,6 +1,6 @@
 {
   "Resources": {
-    "platzilab": {
+    "platziHtillero": {
       "Type": "AWS::S3::Bucket"
     }
   }
